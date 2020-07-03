@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InputControlsTest</string>
+    <string-array name="districts">
+        <item>Select District</item>
+        <item>Guntur</item>
+        <item>Krishna</item>
+        <item>Ananthapur</item>
+        <item>Kurnool</item>
+        <item>Chittor</item>
+        <item>Prakasam</item>
+        <item>Nellore</item>
+    </string-array>
+    <string-array name="Guntur_Mandals">
+        <item>Select Mandal</item>
+        <item>Thullur</item>
+        <item>Tadikonda</item>
+        <item>Mangalagiri</item>
+        <item>Tadepalli</item>
+    </string-array>
+    <string-array name="Krishna_Mandals">
+        <item>Select Mandal</item>
+        <item>Vij1</item>
+        <item>Vij2</item>
+        <item>Vij3</item>
+        <item>Vij4</item>
+    </string-array>
+</resources>
